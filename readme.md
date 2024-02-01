@@ -1,6 +1,6 @@
 # Goalsetter MERN app
 
-This is the goalsetter app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
+simple goalsetter app with user login and register.
 
 ## Usage
 
@@ -24,3 +24,7 @@ npm run server
 ```
 
 ## Demo
+<<<<<<< HEAD
+=======
+https://goals-liard.vercel.app/
+>>>>>>> 0159dcce20a172e596277ad93ea6c50e97a20275
